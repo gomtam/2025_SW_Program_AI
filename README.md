@@ -8,6 +8,6 @@
         <td><a href="https://github.com/gomtam/250312_AI">250312</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/gomtam/250312_AI">250319</a></td>
+        <td><a href="https://github.com/gomtam/250319_AI">250319</a></td>
     </tr>
 </table>
