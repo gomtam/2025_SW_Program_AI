@@ -11,6 +11,6 @@
         <td><a href="https://github.com/gomtam/250319_AI">250319</a></td>
     </tr>
     <tr>
-        <td><a href="내용 추가">250328</a></td>
+        <td><a href="https://github.com/gomtam/250328_AI">250328</a></td>
     </tr>
 </table>
