@@ -19,4 +19,7 @@
     <tr>
         <td><a href="https://github.com/gomtam/250430_AI">250430</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/gomtam/250507_AI">250507</a></td>
+    </tr>
 </table>
