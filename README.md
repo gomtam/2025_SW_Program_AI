@@ -1,5 +1,5 @@
-<h1>2025_SW_Program_AI</h1>
-<h2>AI & 생성형 AI</h2>
+<h1>2025_SW_Program_AI & 생성형 AI</h1>
+<h2>AI_Program, Robot_SW</h2>
 <table border="1">
     <tr>
         <th>교육 내용</th>
