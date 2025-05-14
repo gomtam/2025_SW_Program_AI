@@ -23,6 +23,7 @@
         <td><a href="https://github.com/gomtam/250507_AI">250507</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/gomtam/250514_AI">250514</a></td>
+        <td><a href="https://github.com/gomtam/250514_AI">250514-1</a><br>
+            <a href="https://github.com/gomtam/hello-robot">250514-2</a></td>
     </tr>
 </table>
