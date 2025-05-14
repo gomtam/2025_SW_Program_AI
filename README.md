@@ -1,4 +1,4 @@
-<h1>2025_SW_Program_AI & 생성형 AI</h1>
+<h1>2025_SW_Program_AI & 생성형 AI & Robot</h1>
 <h2>AI_Program, Robot_SW</h2>
 <table border="1">
     <tr>
