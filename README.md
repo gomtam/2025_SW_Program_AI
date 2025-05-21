@@ -27,6 +27,6 @@
             <a href="https://github.com/gomtam/hello-robot">250514-2</a></td>
     </tr>
     <tr>
-        <td><a herf="https://github.com/gomtam/flaskjuso">250521</a></td>
+        <td><a href="https://github.com/gomtam/flaskjuso">250521</a></td>
     </tr>
 </table>
