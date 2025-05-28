@@ -30,4 +30,7 @@
         <td><a href="https://github.com/gomtam/flaskjuso">250521-1</a><br>
             <a href="https://github.com/gomtam/flaskjuso-camera">250521-2</a></td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/gomtam/250528_arduino">250528</a></td>
+    </tr>
 </table>
